@@ -1,0 +1,23 @@
+{
+  "name": "time-reminder",
+  "version": "1.0.0",
+  "description": "An App to indicate the time remaning for current year",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brk09/time-reminder.git"
+  },
+  "keywords": [
+    "time",
+    "javascript"
+  ],
+  "author": "Bhavesh Kothari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brk09/time-reminder/issues"
+  },
+  "homepage": "https://github.com/brk09/time-reminder#readme"
+}
